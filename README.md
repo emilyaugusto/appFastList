@@ -1,3 +1,5 @@
+<img src="https://github.com/emilyaugusto/appFastList/raw/main/FastList/assets/images/readmeFL.png" alt="Descrição da imagem">
+
 # FastList: Organize suas compras com facilidade
 
 FastList é um aplicativo móvel projetado para simplificar sua vida, tornando a organização pessoal e a gestão de compras de mercado uma experiência rápida e eficiente.
